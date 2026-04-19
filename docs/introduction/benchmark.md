@@ -89,8 +89,20 @@ report for details: https://fory.apache.org/docs/benchmarks/swift/
 
 ## JavaScript Benchmark
 
-<img width="50%" alt="" src="/img/benchmarks/javascript/complex_object.jpg" />
+Fory JavaScript demonstrates strong performance compared to Protocol Buffers and
+JSON across representative Node.js workloads.
 
-The data used for this bar graph includes a complex object that has many kinds of field types, and the size of the JSON data is 3KB.
+<img src="../benchmarks/javascript/throughput.png" width="90%"/>
 
-See [benchmarks](https://github.com/apache/fory/blob/main/javascript/benchmark/index.js) for the benchmark code.
+Note: Results depend on hardware, dataset, and runtime versions. See the
+[JavaScript benchmark report](../benchmarks/javascript/README.md) for details.
+
+## Dart Benchmark
+
+Fory Dart demonstrates strong performance compared to Protocol Buffers across
+representative object and list workloads.
+
+<img src="../benchmarks/dart/throughput.png" width="90%"/>
+
+Note: Results depend on hardware, dataset, and runtime versions. See the
+[Dart benchmark report](../benchmarks/dart/README.md) for details.
