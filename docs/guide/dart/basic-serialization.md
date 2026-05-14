@@ -1,6 +1,6 @@
 ---
 title: Basic Serialization
-sidebar_position: 1
+sidebar_position: 2
 id: dart_basic_serialization
 license: |
   Licensed to the Apache Software Foundation (ASF) under one or more

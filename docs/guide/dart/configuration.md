@@ -1,6 +1,6 @@
 ---
 title: Configuration
-sidebar_position: 2
+sidebar_position: 1
 id: dart_configuration
 license: |
   Licensed to the Apache Software Foundation (ASF) under one or more
