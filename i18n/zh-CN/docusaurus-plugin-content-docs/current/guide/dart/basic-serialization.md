@@ -1,6 +1,6 @@
 ---
 title: 基础序列化
-sidebar_position: 2
+sidebar_position: 1
 id: dart_basic_serialization
 license: |
   Licensed to the Apache Software Foundation (ASF) under one or more

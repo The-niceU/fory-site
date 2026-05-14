@@ -1,6 +1,6 @@
 ---
 title: 基本序列化
-sidebar_position: 20
+sidebar_position: 10
 id: basic_serialization
 license: |
   Licensed to the Apache Software Foundation (ASF) under one or more
