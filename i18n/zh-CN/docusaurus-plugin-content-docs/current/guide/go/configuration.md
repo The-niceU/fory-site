@@ -1,6 +1,6 @@
 ---
 title: 配置
-sidebar_position: 10
+sidebar_position: 20
 id: configuration
 license: |
   Licensed to the Apache Software Foundation (ASF) under one or more
